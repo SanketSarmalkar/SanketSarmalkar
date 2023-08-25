@@ -55,6 +55,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 ---
-<a href="https://visitcount.itsvg.in">
+<!-- <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=SanketSarmalkar&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</a>
+</a> -->
