@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanketSarmalkar&layout=compact&theme=vue" />
+    <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanketSarmalkar&layout=compact&theme=vue" />
 </p>
 
 ### ✍️Random Dev Quote
