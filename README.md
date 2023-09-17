@@ -51,6 +51,10 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SanketSarmalkar&theme=vue" />
 </p>
 
+<p align="center">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanketSarmalkar&layout=compact&theme=vue" />
+</p>
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
